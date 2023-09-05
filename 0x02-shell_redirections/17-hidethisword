@@ -1,2 +1,2 @@
-#!/ibn/bash
-grep -v 'bin' /etc/passwd 
+#!/bin/bash
+grep -v 'bins' /etc/passwd 
